@@ -1,0 +1,96 @@
+{
+    "works" : [
+        {
+            "id": 1,
+            "icon_name" : "icon fab fa-android fa-2x",
+            "title" : "Andriod",
+            "body" : "part 1 : Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "id": 2,
+            "icon_name" : "icon fab fa-apple fa-2x",
+            "title" : "Apple",
+            "body" : " part 2 : Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "id": 3,
+            "icon_name" : "icon fab fa-battle-net fa-2x",
+            "title" : "Battle",
+            "body" : "part : Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        }
+    ],
+
+    "portfolio":[
+        {
+            "id" : 1,
+            "image" : "/images/portfolio-img1.jpg"
+        },
+        {
+            "id" : 2,
+            "image" : "/images/portfolio-img2.jpg"
+        },
+        {
+            "id" : 3,
+            "image" : "/images/portfolio-img3.jpg"
+        },
+        {
+            "id" : 4,
+            "image" : "/images/portfolio-img4.jpg"
+        },
+        {
+            "id" : 5,
+            "image" : "/images/portfolio-img5.jpg"
+        },
+        {
+            "id" : 6,
+            "image" : "/images/portfolio-img6.jpg"
+        },
+        {
+            "id" : 7,
+            "image" : "/images/portfolio-img7.jpg"
+        },
+        {
+            "id" : 8,
+            "image" : "/images/portfolio-img8.jpg"
+        }
+    ],
+
+    "social" : [
+        {
+            "id": 1,
+            "icon_name" : "icon fab fa-facebook fa-lg",
+            "title" : "Follow Me On",
+            "body" : "facebook Socail"
+        },
+        {
+            "id": 2,
+            "icon_name" : "icon fab fa-twitter fa-lg",
+            "title" : "Follow Me On",
+            "body" : "twitter Socail"
+        },
+        {
+            "id": 3,
+            "icon_name" : "icon fab fa-pinterest fa-lg",
+            "title" : "Follow Me On",
+            "body" : "pinterest Socail"
+        }
+    ],
+
+    "profile" : [
+        {
+            "id" : 1,
+            "skill" : "Bootstrap",
+            "percentage" : "70%"
+        },
+        {
+            "id" : 2,
+            "skill" : "Css 3 ",
+            "percentage" : "90%"
+        },
+        {
+            "id" : 3,
+            "skill" : "PhotoShop",
+            "percentage" : "60%"
+        }
+    ] 
+}
