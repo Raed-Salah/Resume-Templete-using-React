@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Resume-Templete-using-React/static/css/main.6f1c3a9a.chunk.css",
+    "main.js": "/Resume-Templete-using-React/static/js/main.c99a815d.chunk.js",
+    "main.js.map": "/Resume-Templete-using-React/static/js/main.c99a815d.chunk.js.map",
+    "runtime-main.js": "/Resume-Templete-using-React/static/js/runtime-main.8d0e5242.js",
+    "runtime-main.js.map": "/Resume-Templete-using-React/static/js/runtime-main.8d0e5242.js.map",
+    "static/js/2.ce4ad80e.chunk.js": "/Resume-Templete-using-React/static/js/2.ce4ad80e.chunk.js",
+    "static/js/2.ce4ad80e.chunk.js.map": "/Resume-Templete-using-React/static/js/2.ce4ad80e.chunk.js.map",
+    "index.html": "/Resume-Templete-using-React/index.html",
+    "precache-manifest.f533594d67e72c1a3c845616e1e4650e.js": "/Resume-Templete-using-React/precache-manifest.f533594d67e72c1a3c845616e1e4650e.js",
+    "service-worker.js": "/Resume-Templete-using-React/service-worker.js",
+    "static/css/main.6f1c3a9a.chunk.css.map": "/Resume-Templete-using-React/static/css/main.6f1c3a9a.chunk.css.map",
+    "static/js/2.ce4ad80e.chunk.js.LICENSE.txt": "/Resume-Templete-using-React/static/js/2.ce4ad80e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d0e5242.js",
+    "static/js/2.ce4ad80e.chunk.js",
+    "static/css/main.6f1c3a9a.chunk.css",
+    "static/js/main.c99a815d.chunk.js"
+  ]
+}
